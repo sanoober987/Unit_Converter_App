@@ -1,59 +1,60 @@
---🌍 Unit Converter Pro
+# 🌍 Unit Converter Pro
 
 A modern and interactive Unit Converter built with Streamlit, featuring a beautiful animated UI, responsive design, interactive charts, and smooth conversion tools for Length, Weight, and Time.
 
-#✨ Features 
+# ✨ Features 
 
-🎨 Animated gradient background for a modern look
+- 🎨 Animated gradient background for a modern look
 
-📱 Fully responsive (mobile, tablet, laptop)
+- 📱 Fully responsive (mobile, tablet, laptop)
 
-📊 Interactive Plotly charts
+- 📊 Interactive Plotly charts
 
-📋 Clean conversion results shown in cards
+- 📋 Clean conversion results shown in cards
 
-📄 Dynamic data table using Pandas
+- 📄 Dynamic data table using Pandas
 
-🧮 Conversion support for:
+- 🧮 Conversion support for:
 
-Length
+- Length
 
-Weight
+- Weight
 
-Time
+- Time
 
-#🛠️ Technologies Used
+- ⚡ Fast, simple, user-friendly interface
 
-Python
+- ❤️ Custom footer and styling
 
-Streamlit
+# 🛠️ Technologies Used
 
-Pandas
+- Python
 
-Plotly Express
+- Streamlit
 
-HTML + CSS (inside Streamlit)
-⚡ Fast, simple, user-friendly interface
+- Pandas
 
-❤️ Custom footer and styling
+- Plotly Express
 
-#🧠 How It Works
+- HTML + CSS (inside Streamlit)
 
-The app performs quick real-time unit conversions with stylish UI components.
+# 🧠 How It Works
 
-🔹 Length
+- The app performs quick real-time unit conversions with stylish UI components.
+
+- 🔹 Length
 
 Kilometers → Miles
 
 Miles → Kilometers
 
-🔹 Weight
+- 🔹 Weight
 
 Kilograms → Pounds
 
 Pounds → Kilograms
 
-🔹 Time
+- 🔹 Time
 
 Seconds ↔ Minutes
 
@@ -66,4 +67,4 @@ Results appear in:
 ✔️ Data Table
 ✔️ Live Chart 
 
---🎨 UI Preview
+
